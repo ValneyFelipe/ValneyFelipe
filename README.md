@@ -2,7 +2,7 @@
 
 👨‍💻 Actively advancing my studies in Systems Analysis and Development.
 
-📚 Learning the ropes of Node.js, Express, and MySQL.
+📚 Learning the ropes of Typescript, Node.js and MySQL.
 
 💻 Aspiring Full Stack Developer with a passion for crafting seamless Front-end and robust Back-end solutions. 🚀
 
@@ -18,7 +18,7 @@
     <img align="center" alt="Valney-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Valney-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Valney-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Valney-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+    <img align="center" alt="Valney-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 </div>
 <br>
 
