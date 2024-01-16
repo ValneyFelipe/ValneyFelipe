@@ -2,9 +2,9 @@
 
 👨‍💻 Actively advancing my studies in Systems Analysis and Development.
 
-📚 Learning the ropes of Typescript and MySQL.
+📚 Learning the ropes of React, Typescript and MySQL.
 
-💻 Aspiring Full Stack Developer with a passion for crafting seamless Front-end and robust Back-end solutions. 🚀
+💻 Aspiring Full Stack developer with a passion for creating front-end and back-end solutions. 🚀
 
 ## Connect with me:
 
