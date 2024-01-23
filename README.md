@@ -6,12 +6,6 @@
 
 💻 Aspiring Full Stack developer with a passion for creating front-end and back-end solutions. 🚀
 
-## Connect with me:
-
-<p align="left">
-    <a href="https://www.linkedin.com/in/valney-felipe-5a25a8218" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</p>
-
 
 ## Languages and Tools:
 <div style="display: inline_block">
