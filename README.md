@@ -1,18 +1,16 @@
 ## Hi👋, I'm Valney Felipe 🙋‍♂️
 
-👨‍💻 Actively advancing my studies in Systems Analysis and Development.
-
-📚 Learning the ropes of React, Typescript and MySQL.
-
-💻 Aspiring Full Stack developer with a passion for creating front-end and back-end solutions. 🚀
+Full Stack Developer passionate about Front-end and Back-end. 🖥️🚀
 
 
 ## Languages and Tools:
 <div style="display: inline_block">
+    <img align="center" alt="Valney-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
     <img align="center" alt="Valney-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Valney-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Valney-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Valney-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+    <img align="center" alt="Valney-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
+    
 </div>
 <br>
 
